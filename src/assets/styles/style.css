@@ -1,0 +1,35 @@
+html{
+	width:500px;
+	height:190px;
+	border:1px solid limegreen;
+}
+
+h1{
+	color:black;
+	background-color: limegreen;
+	margin:0px;
+}
+
+p{
+	background-color: limegreen;
+	color:black;
+}
+
+li{
+	list-style: none;
+
+}
+
+a{
+	color:orange;
+	font-weight: bolder;
+	font-family: 'Hammersmith One', sans-serif;
+}
+
+.email, .firstName, .lastName, .phone, .location{
+	color:blue;
+	font-family: 'Hammersmith One', sans-serif;
+	margin-left: 30px;
+	margin:0px;
+	
+}

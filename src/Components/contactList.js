@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router';
-import { getContacts } from 'api/contacts'
+import { contacts } from '../../db.json'
 
 
 export default React.createClass({

@@ -1,5 +1,5 @@
 import React from 'react';
-import contacts from '../contacts.json';
+import db from '../../db.json';
 
 import 'font-awesome/css/font-awesome.css'
 

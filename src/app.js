@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Router, Route, hashHistory } from 'react-router';
+import ContactList from 'Components/contactList'
+
 
 require('assets/styles/style.css')
 
